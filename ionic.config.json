@@ -1,4 +1,5 @@
 {
+  "defaultProject": "react-nx",
   "projects": {
     "react-nx": {
       "name": "react-nx",
