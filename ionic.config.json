@@ -6,7 +6,8 @@
         "capacitor": {}
       },
       "type": "react",
-      "root": "apps/react-nx"
+      "root": "apps/react-nx",
+      "id": "caf1636d"
     }
   }
 }
